@@ -1,0 +1,13 @@
+A:\curs MTA\Programes\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\ConsoleApp45.exe
+A:\curs MTA\Programes\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\ConsoleApp45.deps.json
+A:\curs MTA\Programes\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\ConsoleApp45.runtimeconfig.json
+A:\curs MTA\Programes\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\ConsoleApp45.runtimeconfig.dev.json
+A:\curs MTA\Programes\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\ConsoleApp45.dll
+A:\curs MTA\Programes\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\ConsoleApp45.pdb
+A:\curs MTA\Programes\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.csprojAssemblyReference.cache
+A:\curs MTA\Programes\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.AssemblyInfoInputs.cache
+A:\curs MTA\Programes\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.AssemblyInfo.cs
+A:\curs MTA\Programes\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.csproj.CoreCompileInputs.cache
+A:\curs MTA\Programes\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.dll
+A:\curs MTA\Programes\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.pdb
+A:\curs MTA\Programes\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.genruntimeconfig.cache
